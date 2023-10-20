@@ -1,0 +1,13 @@
+.card {
+    border: 1px solid black;
+    width: 500px;
+    margin: 10px;
+    transition: 0.3s;
+}
+.card:hover {
+    transition: 0.3s;
+    box-shadow: 10px 10px 10px 10px gray;
+}
+.image {
+    width: 200px;
+}
